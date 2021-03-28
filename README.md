@@ -16,11 +16,11 @@ The interface looks this way:
 
 ___
 
-<img src="D:\Works\Внешкольная деятельность\FilmScenery2021A\images\ScreenShot_contents.png" alt="image-20210328122612110" style="zoom: 25%;" />
+<img src="images\ScreenShot_contents.png" alt="ScreenShot with contents tab" style="zoom: 25%;" />
 
 ___
 
-<img src="D:\Works\Внешкольная деятельность\FilmScenery2021A\images\ScreenShot_Files.png" alt="image-20210328122746739" style="zoom:25%;" />
+<img src="images\ScreenShot_Files.png" alt="ScreenShot with Files tab " style="zoom:25%;" />
 
 ___
 
